@@ -34,3 +34,5 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakp-rathore&show_icons=true&locale=en" alt="deepakp-rathore" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakp-rathore&" alt="deepakp-rathore" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakp-rathore&show_icons=true&locale=en" alt="deepakp-rathore" /></p>
