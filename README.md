@@ -36,6 +36,9 @@ I love diving deep into complex systems, designing scalable architectures, and c
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat)
+![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=flat)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 
 
 ---
