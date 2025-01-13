@@ -1,10 +1,9 @@
 
-# 👋 Hello, I'm Deepak Rathore!
+# 👋 Hi, I'm Deepak Rathore!  
 
-🌟 Welcome to my GitHub profile! I’m a passionate **Software Engineer** specializing in **Android Development**, **Backend Systems**, **Machine Learning**, and **DevOps**. With a strong foundation in software development and a keen interest in cutting-edge technologies, I strive to build impactful solutions that solve real-world problems.  
+🌟 Welcome to my GitHub! I’m a **Software Engineer** with expertise in **Android Development**, **Backend Systems**, **Machine Learning**, and **DevOps**. I’m driven by a passion for building innovative solutions and tackling real-world challenges through technology.  
 
-I love diving deep into complex systems, designing scalable architectures, and creating innovative tools and applications. Whether it’s exploring low-level system mechanics or applying high-level abstractions, I’m always excited about pushing the boundaries of what’s possible with technology.
-
+From designing scalable systems to diving into complex problem-solving, I love pushing boundaries and creating tools that make an impact. Let’s explore and shape the future of tech together!
 
 ---
 
@@ -19,7 +18,6 @@ I love diving deep into complex systems, designing scalable architectures, and c
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-
 
 ### **Frameworks & Libraries**
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
@@ -40,43 +38,29 @@ I love diving deep into complex systems, designing scalable architectures, and c
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=flat)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 
-
 ---
 
 ## 🧠 Currently Learning
 
-I am diving deep into advanced topics that drive modern software systems, including:  
-- **System Design and Scalability**: Architecting large-scale distributed systems for reliability and performance.  
-- **Internals of Databases**: Understanding query optimization, indexing, and transactional processing.  
-- **Low-Level Machine Learning Systems (LLMs)**: Exploring the engineering behind training and deploying large language models.  
-- **Cloud-Native Applications**: Developing microservices and serverless architectures for the cloud ecosystem.  
-- **Operating Systems**: Exploring advanced topics like kernel programming, process management, and virtualization    
+I’m currently enhancing my skills in:  
+- **System Design Basics**: Learning to design scalable and maintainable systems.  
+- **Database Optimization**: Exploring indexing and efficient query execution.  
+- **Cloud-Native Development**: Building microservices and serverless applications.  
+- **Machine Learning Pipelines**: Implementing end-to-end workflows for data-driven models.  
 
 ---
 
 ## 🔍 Professional Interests
 
-I am particularly drawn to emerging and transformative technologies, including:  
-- **Cloud-Native Development**: Optimizing microservices for Kubernetes and serverless platforms  
-- **Edge Computing**: Designing solutions for faster, localized decision-making.  
-- **Quantum Computing**: Exploring its applications and potential to revolutionize problem-solving.  
-- **AI-driven DevOps**: Automating infrastructure and deployment pipelines with artificial intelligence.  
-- **Blockchain and Web3**: Investigating decentralized systems and smart contract development.  
+I’m fascinated by:  
+- **DevOps Automation**: Streamlining CI/CD pipelines and infrastructure management.  
+- **AI in Mobile Applications**: Integrating intelligent systems into Android apps.  
+- **Data Engineering**: Building efficient data pipelines for analysis and insights.  
+- **Software as a Service (SaaS)**: Prototyping user-focused and scalable platforms.  
 
 ---
-<!--
-## 🚧 Ongoing Projects
 
-Currently, I am working on and experimenting with:  
-- **AI-Augmented Development Tools**: Creating systems that assist developers by generating, optimizing, and debugging code intelligently.  
-- **Custom LLM Pipelines**: Building pipelines for domain-specific large language models with optimized training and inference.  
-- **Distributed Data Processing**: Implementing high-performance systems for processing large-scale datasets in real-time.  
-- **Innovative SaaS Platforms**: Prototyping scalable and user-centric applications for diverse industries.  
--->
+### 🔔 Stay Tuned! 🚀  
 
-
-
-### 🔔 Stay Tuned!
-
-🚀 **Exciting Updates Ahead!** My GitHub profile is a work in progress, with many advanced projects, innovative ideas, and groundbreaking solutions on the horizon. Follow me to stay updated and explore the journey as I share my progress and contributions to the tech ecosystem. Together, let’s shape the future of technology!
+**Exciting Updates Ahead!** My GitHub profile is evolving with innovative projects, insightful repositories, and unique contributions. Follow me to stay updated and witness the journey as I explore new challenges and share groundbreaking solutions. Let’s build the future of technology together!
 
