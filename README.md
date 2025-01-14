@@ -5,7 +5,7 @@ Welcome to my little corner of the coding universe! 🚀 I’m a **Software Engi
 I’m passionate about turning complex ideas into simple, effective solutions and continuously challenging myself to learn and grow.  
 
 ---
-
+<!--
 ## 🚀 Quick Bytes About Me  
 
 - 🛠 **Tech-Savvy**:  
@@ -21,7 +21,7 @@ I’m passionate about turning complex ideas into simple, effective solutions an
   - Blogging about development experiences (coming soon).  
 
 ---
-
+-->
 ## 🧰 My Developer Toolbox  
 
 | **Languages**      | **Frameworks & Libraries**    | **Dev Tools**           |  
@@ -42,7 +42,7 @@ I’m sharpening my skills in:
 5️⃣ **Open Source Contributions**: Giving back to the community by improving existing tools and libraries.  
 
 ---
-
+<!--
 ## 🎨 A Fun Twist  
 
 - **Coding Motto**: “Break it to fix it better!”  
@@ -53,6 +53,7 @@ I’m sharpening my skills in:
   - Building small tools to simplify life.  
 
 ---
+--> 
 
 ## 🔔 Let’s Connect & Build Together!  
 
