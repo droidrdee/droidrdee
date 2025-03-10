@@ -5,28 +5,12 @@ Welcome to my little corner of the coding universe! 🚀 I’m a **Software Engi
 I’m passionate about turning complex ideas into simple, effective solutions and continuously challenging myself to learn and grow.  
 
 ---
-<!--
-## 🚀 Quick Bytes About Me  
 
-- 🛠 **Tech-Savvy**:  
-  Adept in building **Android apps**, designing robust **backend architectures**, and integrating **AI-powered solutions**.  
-
-- 🌱 **Lifelong Learner**:  
-  - Recently dived into **Jetpack Compose** for modern Android UI development.  
-  - Exploring **cloud-native development** and **CI/CD automation**.  
-
-- 🌟 **Hobbies Beyond Code**:  
-  - Reading about cutting-edge tech and innovations.  
-  - Experimenting with **DIY tech projects** and automation tools.  
-  - Blogging about development experiences (coming soon).  
-
----
--->
 ## 🧰 My Developer Toolbox  
 
 | **Languages**      | **Frameworks & Libraries**    | **Dev Tools**           |  
 |---------------------|-------------------------------|--------------------------|  
-| Java, Kotlin, Python | Jetpack Compose, Django, React | Docker, Git, Redis        |  
+| Java, Kotlin, Python | Android Dev, Django, React, React Native | Docker, Git, Redis        |  
 | JavaScript, TypeScript | TensorFlow, PyTorch, Tailwind CSS | Android Studio, VS Code   |  
 | C++, Bash           | Neovim, Vim                  | PostgreSQL, CI/CD Tools   |  
 
@@ -35,7 +19,7 @@ I’m passionate about turning complex ideas into simple, effective solutions an
 ## 📚 Currently Learning  
 
 I’m sharpening my skills in:  
-1️⃣ **Advanced Android Development**: Enhancing app performance and UI with Jetpack Compose.  
+1️⃣ **Advanced Mobile App Development**: Enhancing app performance and UI in React Native.  
 2️⃣ **Cloud-Native Applications**: Creating scalable microservices on platforms like Kubernetes.  
 3️⃣ **System Design**: Building efficient, maintainable architectures.  
 4️⃣ **AI for Mobile**: Exploring ways to integrate ML models directly into Android apps.  
