@@ -44,9 +44,9 @@ I’m sharpening my skills in:
 ✨ **Follow me** to discover innovative projects, insightful repos, and my tech adventures. From Android apps to backend systems and AI tools, there’s always something new brewing here!  
 
 🌐 **Where to Find Me**  
-- **LinkedIn**: [linkedin.com/in/deepak-rathore](#)  
-- **Portfolio**: [deepakrathore.dev](#) *(Coming Soon!)*  
-- **X**: [(https://x.com/droidrdee)](#) *(Feel free to reach out!)*  
+- **LinkedIn**: [Deepak Rathore](linkedin.com/in/deepak-rathore)  
+- **Portfolio**: [Deepak Rathore](https://portfolio-deepak-chi.vercel.app/) 
+- **X**: [Deepak Rathore](https://x.com/droidrdee) *(Feel free to reach out!)*  
 
 ---
   
