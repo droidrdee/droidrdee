@@ -45,7 +45,7 @@ I’m sharpening my skills in:
 
 🌐 **Where to Find Me**  
 - **LinkedIn**: [Deepak Rathore](https://www.linkedin.com/in/droidrdee/)  
-- **Portfolio**: [Deepak Rathore](https://portfolio-deepak-chi.vercel.app/) 
+- **Portfolio**: [deepakrathore.me](https://www.deepakrathore.me/) 
 - **X**: [Deepak Rathore](https://x.com/droidrdee) *(Feel free to reach out!)*  
 
 ---
